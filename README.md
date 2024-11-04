@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Arshad Jamil</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<p align="center">I love creating new things ⚡ <br> Turning imagination into reality 🚀</p> 
+
+                                                                    
+
 <img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
 
 - 🌱 I’m currently learning the fundamentals of backend development, focusing on Node.js and databases, while continuing to refine my frontend skills with React.
