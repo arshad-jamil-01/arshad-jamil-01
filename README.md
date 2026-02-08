@@ -1,12 +1,8 @@
 <h1 align="center">Hey 👋 I'm Arshad Jamil</h1>
-<h3 align="center">MERN Stack Developer • React.js Developer • Frontend & Backend Enthusiast</h3>
+<h3 align="center">MERN Full Stack Developer • React.js Developer • Frontend & Backend Developer</h3>
 
 <p align="center">
-  <img 
-    src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" 
-    alt="developer with laptop"
-    width="220"
-  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" />
 </p>
 
 <p align="center">
@@ -45,7 +41,6 @@
 - Node.js  
 - Express.js  
 - RESTful APIs  
-- MVC Architecture  
 - Authentication (JWT, Cookies)  
 - Authorization & Role-based access  
 - Middleware  
