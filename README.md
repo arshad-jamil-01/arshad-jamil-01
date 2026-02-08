@@ -1,20 +1,120 @@
+<h1 align="center">Hey 👋 I'm Arshad Jamil</h1>
+<h3 align="center">MERN Stack Developer • React.js Developer • Frontend & Backend Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Arshad Jamil</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-
-- 💬 Ask me about *javaScript, React*
-
-- ⚡ Fun fact *I have a deep love for trees and nature, and I often find inspiration for my designs in the beauty of the natural world!*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/arshad-jamil-b12447306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arshad-jamil-b12447306" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" 
+    alt="developer with laptop"
+    width="220"
+  />
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-![github contribution grid snake animation](https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg)
+<p align="center">
+  I build complete full-stack web applications with clean UI, strong backend logic and responsive design.
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 MERN Stack Developer (Frontend + Backend)  
+- ⚛️ React.js focused on reusable components & clean UI  
+- 🌐 Build responsive websites for all screen sizes  
+- 🔐 Experience with authentication & REST APIs  
+- 🧠 Strong JavaScript fundamentals  
+- 🌿 Nature lover — calm mind, clean code  
+
+---
+
+## 🎨 Frontend Skills
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React.js  
+- React Hooks  
+- Component-based architecture  
+- Responsive Web Design (Mobile-First)  
+- Flexbox & CSS Grid  
+- GSAP & Swiper.js  
+- DOM Manipulation  
+- Cross-browser compatibility  
+
+---
+
+## ⚙️ Backend Skills
+- Node.js  
+- Express.js  
+- RESTful APIs  
+- MVC Architecture  
+- Authentication (JWT, Cookies)  
+- Authorization & Role-based access  
+- Middleware  
+- Error handling  
+- Input validation  
+
+---
+
+## 🗄️ Database Skills
+- MongoDB  
+- Mongoose  
+- CRUD Operations  
+- Schema Design  
+- Data Relationships  
+
+---
+
+## 🛠️ Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Thunder Client  
+- VS Code  
+- Adobe XD / Adobe Tools (UI reference & design)  
+- NPM  
+- Environment Variables (.env)  
+
+---
+
+## 📐 Core Concepts
+- HTTP / HTTPS  
+- Client-Server Architecture  
+- Event Loop  
+- Async / Await  
+- Promises  
+- API Integration  
+- Clean Code Practices  
+
+---
+
+## 🧠 What I Care About
+- Clean & maintainable code  
+- Smooth UI & UX  
+- Scalable backend logic  
+- Real-world project experience  
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/arshad-jamil-b12447306/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 🐍 GitHub Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Frontend attracts. Backend convinces. Responsiveness retains."</i>
+</p>
+
 
 
