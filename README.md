@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Arshad Jamil</h1>
-<h3 align="center">MERN Full Stack Developer • React.js Developer • Frontend & Backend Developer</h3>
+<h3 align="center">MERN Full Stack Developer • React.js Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" />
